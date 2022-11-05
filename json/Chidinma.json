@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "Chidinma",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "6.0",
+    "sensitive_content": false,
+    "series_total": "Change your series_total to 526 in the JSON file.",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "chidinma-the-model"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

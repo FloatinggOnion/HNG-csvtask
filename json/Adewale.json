@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "Adewale",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "1.0",
+    "sensitive_content": false,
+    "series_total": "Change your series_total to 526 in the JSON file.",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "adewale-the-amebo"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

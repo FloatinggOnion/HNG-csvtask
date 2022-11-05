@@ -1,0 +1,26 @@
+Series Number,Name,The,Descriptor,New Name,Description,Hash,UUID
+1.0,Adewale,The,Amebo,adewale-the-amebo,Adewale always wants to be in everyone's business.,,0dcead17-45ed-46bb-9f82-6e85f8931ab2
+2.0,Alli,The,Queeny,alli-the-queeny,Alli is an LGBT Stan.,,8473e740-db5d-4ba1-af16-347d8949499e
+3.0,Aminat,The,Snnobish,aminat-the-snnobish,Aminat never really wants to talk to anyone.,,fe03e88c-e136-436c-9fcc-e96af5374713
+4.0,Aminu,The,Carpenter,aminu-the-carpenter,"Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",,1428ef6c-482b-445b-a5b3-d80a1e3f2116
+5.0,Chibuike,The,Kudibag,chibuike-the-kudibag,Chibuike is too rich. Everyone wonders how he got it.,,942de405-5866-4477-bad6-d6bf9ef5c078
+6.0,Chidinma,The,Model,chidinma-the-model,"From Paris' runways, to London's streets, she's always in demand.",,959d3fec-cb39-4a29-be0d-2a358f37c8aa
+7.0,Chioma,Pretty, Girl,chioma-pretty- girl,Chioma's face card is a 100.,,956a62ed-2c15-44d7-9776-0d611cf800cb
+8.0,Damilare,The,Handsome,damilare-the-handsome,He's a fine boy. Everyone loves his face(and him).,,b8264311-1338-45dd-9fdf-5d038e68f5b3
+9.0,Ebiowie,The,Planter,ebiowie-the-planter,Ebiowei has a reputation for nurturing plants.,,dff38c7c-82d4-4271-9e4d-78fe5d5ea24a
+10.0,Emeka,The,Businessman,emeka-the-businessman,Emeka only cares about containers. No time to waste.,,7f48d0ec-3f84-4b79-bbaa-4c11896b7978
+11.0,Gbeminyi,The,Monk,gbeminyi-the-monk,He lives in a monastery off the coast. No one has heard him speak in years.,,1b41983c-1ae4-405a-bd8c-8b1ed1794cc6
+12.0,Henry,The,Sportsman,henry-the-sportsman,He's played every sport known to man. Even cricket.,,fa3a52e7-9bf5-4f4d-869f-aeec22ba9638
+13.0,Mayowa,The,Smallie,mayowa-the-smallie,Mayowa is so small but everyone loves him even still.,,02760a2f-3c86-44ab-992f-bfae33510789
+14.0,Muyiwa,The,Stylish,muyiwa-the-stylish,Muyiwa has a motto which is never to be caught unfresh.,,352b3035-f72f-4efc-9927-fb26529399d8
+15.0,Nina,Paper,Chaser,nina-paper-chaser,Nina na Igbo girl wey like money. Finish.,,5a5a7764-9862-40f4-895a-b5eaefeaea91
+16.0,Oluwaseun,,Spicy,oluwaseun-spicy,He loves spicy foods. He cooks pepper and sprinkles rice on top.,,9e7a40d7-aa35-4fe9-8e9f-80d028a26197
+17.0,Sesan,The,Smartie,sesan-the-smartie,Sesan always comes first in competitions.,,2a494cb2-b1ce-4391-a26c-abe9970c4e89
+18.0,Tiwa,,London,tiwa-london,"If she says she's in London and you see her, you're in London too.",,1e92e919-d1ae-4e6e-b135-60e999cf366b
+19.0,Tunde,Yoruba,Demon,tunde-yoruba-demon,Tunde derives joy in breaking girls heart. It's a lifestyle.,,c1f5a66c-72a8-4e9a-864a-798da6e90efc
+20.0,Yakubu,The,Zombie,yakubu-the-zombie,Yakubu earned his zombie title because na only dust full him head.,,e11042ff-be62-430a-9377-80d89317d608
+,,,,,,,
+Instructions,,,,,,,
+"Have one name in each column, to auto generate your file name",,,,,,,
+Simply RENAME a Sheet to use it.,,,,,,,
+Change your series_total to 526 in the JSON file.,,,,,,,
